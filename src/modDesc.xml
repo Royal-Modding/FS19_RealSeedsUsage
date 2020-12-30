@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="${descVersion}">
+	<author>${author}, CNH_JD</author>
+	<version>${version}</version>
+	<title>
+		<en>${title}</en>
+	</title>
+	<description>
+		<en>
+			<![CDATA[
+With this mod, seeders will use the right and real amount of seed for every crop type.
+
+Wheat :     200  kg/ha
+Barley :    200  kg/ha
+Oat :       135  kg/ha
+Canola :    6,5  kg/ha
+Sunflower : 5    kg/ha
+Soybean :   55   kg/ha
+Maize :     19,5 kg/ha
+Potato :    1600 kg/ha
+Sugarbeet : 200  kg/ha
+]]>
+		</en>
+		<de>
+			<![CDATA[
+Mit diesem Mod verwenden die Sämaschinen die richtige und echte Menge an Saatgut für jede Kulturart.
+
+Weizen :       200  kg/ha
+Gerste :       200  kg/ha
+Hafer :        135  kg/ha
+Raps :         6,5  kg/ha
+Sonnenblume :  5    kg/ha
+Sojabohne :    55   kg/ha
+Mais :         19,5 kg/ha
+Kartoffel :    1600 kg/ha
+Zuckerrüben :  200  kg/ha
+]]>
+		</de>
+		<fr>
+			<![CDATA[
+Grâce à ce mode, les semenciers utiliseront la bonne et réelle quantité de semences pour chaque type de culture.
+
+Wheat :     200  kg/ha
+Barley :    200  kg/ha
+Oat :       135  kg/ha
+Canola :    6,5  kg/ha
+Sunflower : 5    kg/ha
+Soybean :   55   kg/ha
+Maize :     19,5 kg/ha
+Potato :    1600 kg/ha
+Sugarbeet : 200  kg/ha
+]]>
+		</fr>
+	</description>
+	<multiplayer supported="true" />
+	<iconFilename>icon.png</iconFilename>
+	<extraSourceFiles>
+		<sourceFile filename="rmod/Main.lua" />
+		<sourceFile filename="realSeedsUsage.lua" />
+	</extraSourceFiles>
+</modDesc>
