@@ -45,27 +45,27 @@ Weizen: 200 kg/ha
 Gerste: 200 kg/ha
 Hafer: 135 kg/ha
 Raps: 6,5 kg/ha
-Sonnenblume: 5 kg/ha
-Sojabohne: 55 kg/ha
+Sonnenblumen: 5 kg/ha
+Sojabohnen: 55 kg/ha
 Mais: 19,5 kg/ha
-Kartoffel: 1600 kg/ha
+Kartoffeln: 1600 kg/ha
 Zuckerrüben: 70 kg/ha
 Gras: 35 kg/ha
 Roggen: 150 kg/ha
 Triticale: 175 kg/ha
 Dinkel: 125 kg/ha
-Miscanthus: 30 kg/ha
+Elefantengras: 30 kg/ha
 Luzerne: 42 kg/ha
 Klee: 36 kg/ha
-Karotte: 1,5 kg/ha
-Zwiebel: 8 kg/ha
+Karotten: 1,5 kg/ha
+Zwiebeln: 8 kg/ha
 
 Changelog ${version}:
 - Unterstützung für Gras, Alfalfa und Klee hinzugefügt
-- Unterstützung für Roggen, Triticale, Dinkel und Miscanthus wurde hinzugefügt
+- Unterstützung für Roggen, Triticale, Dinkel und Elefantengras wurde hinzugefügt
 - Unterstützung für Karotten und Zwiebeln hinzugefügt
 - Neue Übersetzungen hinzugefügt
-- Verwendung von Zuckerrübensaatgut korrigiert
+- Verwendung von Zuckerrübensaatgut verbessert
 ]]>
 		</de>
 		<fr>
