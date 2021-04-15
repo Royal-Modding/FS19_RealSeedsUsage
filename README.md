@@ -22,8 +22,8 @@ With this mod, seeders will use the right and real amount of seed for every crop
 - Onion: 8 kg/ha
 
 ---
-DE
 
+![iconfinder_flag-germany_748067](https://user-images.githubusercontent.com/7534621/114938948-08f06580-9e40-11eb-9bd9-cd9733f1c6bc.png)  
 Mit diesem Mod verwenden die Sämaschinen die richtige und echte Menge an Saatgut für jede Kulturart.
 
 - Weizen: 200 kg/ha
@@ -46,8 +46,8 @@ Mit diesem Mod verwenden die Sämaschinen die richtige und echte Menge an Saatgu
 - Zwiebeln: 8 kg/ha
 
 ---
-FR
 
+![iconfinder_flag-france_748130](https://user-images.githubusercontent.com/7534621/114938931-02fa8480-9e40-11eb-84bb-b0c216000de9.png)  
 Avec ce mod, les semoirs/semoirs monograines/planteuses utiliseront une quantité de semences réaliste pour chaque culture.
 
 - Blé: 200 kg/ha
@@ -70,8 +70,9 @@ Avec ce mod, les semoirs/semoirs monograines/planteuses utiliseront une quantit�
 - Oignon : 8 kg/ha
 
 ---
-IT
 
+
+![iconfinder_flag-italy_748049](https://user-images.githubusercontent.com/7534621/114938787-d3e41300-9e3f-11eb-9554-0e40597cec5d.png)  
 Con questa mod, seminatrici e piantatrici utilizzeranno una quantità realistica di semi in base alla coltura.
 
 - Grano: 200 kg/ha
